@@ -1,6 +1,6 @@
 ## Redbus homepage clone
 
-In this project user has to clone the homepage of the popular website redbus.
+In this project, I have created a clone of the homepage of the popular website Redbus.
 
 > All the required assets are given in the **assets** folder.
 
